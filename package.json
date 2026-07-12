@@ -1,6 +1,6 @@
 {
     "name": "@plurnk/plurnk-mimetypes-grammar-ocaml",
-    "version": "0.1.5",
+    "version": "1.0.0",
     "description": "Pre-built tree-sitter-ocaml WASM grammar for @plurnk/plurnk-mimetypes.",
     "type": "module",
     "license": "MIT",
